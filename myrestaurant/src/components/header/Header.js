@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import HeaderInfos from './headerInfos/HeaderInfos';
 import HeaderNav from './HeaderNav/HeaderNav';
-import Slider from './Slider/Slider';
+import Slider from '../Slider/Slider';
 
 export default class Header extends Component{
 
@@ -11,6 +11,7 @@ export default class Header extends Component{
                 <HeaderInfos />
                 <HeaderNav />
                 <Slider />
+
             </>
         ) 
                 

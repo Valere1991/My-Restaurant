@@ -1,6 +1,11 @@
+.Nav{
+    padding-top: 0%;
+}
+
 .logo{
     font-family: 'Great Vibes', sans-serif;
-    font-size: 50px;
+    font-size: 60px;
+    color: #ffffff;
 }
 .home{
     color: #B39409;
@@ -10,4 +15,25 @@
     border: none;
     background-color: transparent;
     color: black;
+}
+
+.menu{
+    color: #ffffff;
+}
+.blog{
+    color: #ffffff;
+}
+.kontakt{
+    color: #ffffff;
+}
+
+.Linien{
+    width: 100%;
+    color: #ffffff;
+    margin-left: 0;
+    height: 5%;
+    margin-top: 0;
+    margin-bottom: 0;
+    border: 0.1px solid #ffffff;
+    opacity: 0.1;
 }
